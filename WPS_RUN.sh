@@ -1,5 +1,6 @@
 #!/bin/bash
-
+# This shall scripts automate the process of generating metgrid files for multiple years for spacific period and month
+# Wrote by : Pradeep Kushwaha on 10 August 2023
 # Set the base paths
 BASE_PATH="/home/pradeep/WRF_SHELL_SCRIP_TEST/"
 WPS_DIR="$BASE_PATH/NEW-WRF/FIRST_METHOD/WPS"
